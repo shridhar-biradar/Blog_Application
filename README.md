@@ -3,7 +3,7 @@
 A full-stack blog application built with Django, HTML/CSS, and JavaScript. Users can register, log in, create, update, delete, and read blog posts. Hosted on [PythonAnywhere](https://www.pythonanywhere.com).
 
 ## Live Demo
- [https://yourusername.pythonanywhere.com](https://yourusername.pythonanywhere.com)  
+ [https://shridhar12.pythonanywhere.com/](https://shridhar12.pythonanywhere.com/)  
 
 
 ---
