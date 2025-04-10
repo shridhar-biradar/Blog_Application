@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Create Blog{% endblock %}
+
+{% block content %}
+<h2>Create Blog</h2>
+<form id="blog-form" method="POST">
+   
+    <input type="text" id="title" placeholder="Blog Title" required>
+    <textarea id="content" placeholder="Blog Content" required></textarea>
+    <button type="submit">Publish</button>
+</form>
+{% endblock %}
